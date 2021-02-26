@@ -1,0 +1,14 @@
+main {
+  border-top: 0.0rem solid lightgray;
+  border-bottom: 0.0rem solid lightgray;
+  border-left: 0.0rem solid lightgray;
+  border-right: 0.0rem solid lightgray;
+  margin: 10px auto;
+  padding: 4px 4px 4px 4px;
+  width: fit-content;
+}
+
+footer { text-align: center; margin: 35px auto 5px auto; }
+
+footer img{ width: 30px; height: 30px; }
+
